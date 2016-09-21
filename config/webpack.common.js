@@ -47,7 +47,7 @@ module.exports = {
   },
 
   sassLoader: {
-      includePaths: ['public/scss']
+      includePaths: ['public/scss', 'node_modules']
   },
 
   plugins: [
