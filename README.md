@@ -6,4 +6,3 @@ Build commands:
 
 *npm start - webpack development build on webpack-dev-server.
 *npm run build - makes a production build of the application for deployment on server.
-*npm test - runs the test build (not fully tested yet...)
