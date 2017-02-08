@@ -1,4 +1,4 @@
-***baseline-angular2***
+# baseline-angular2
 
 A baseline project for Angular 2 projects. Webpack is used for compiling and bundling everything.
 
