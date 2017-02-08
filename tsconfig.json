@@ -11,6 +11,9 @@
     "suppressImplicitAnyIndexErrors": true,
     "exclude": [
         "node_modules"
+    ],
+    "types" : [
+      "node"
     ]
   }
 }
